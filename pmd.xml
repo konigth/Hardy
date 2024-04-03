@@ -12,5 +12,7 @@
 
     <!-- Your rules will come here -->
     <rule ref="category/java/errorprone.xml" />
+    <rule ref="category/java/codestyle.xml" />
+    <rule ref="category/java/design.xml" />
 
 </ruleset>
